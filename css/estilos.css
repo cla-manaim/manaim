@@ -1,0 +1,33 @@
+/* RESET */
+* {margin: 0; padding: 0; font-size: 100%; font-family: 'Open Sans', sans-serif; font-weight: normal;
+box-sizing:border-box; border:none; outline: none; }
+img {max-width: 100%;}
+ul {list-style: none;}
+a {text-decoration: none;}
+h2 {font-size: 1.5em; color: rgb(24, 22, 22);}
+p {font-size: 1em; color: rgb(95, 95, 95);}
+
+/* TÍTULO */
+.titulo {color:#ffffff; font-size: 24px;}
+
+/* CABEÇALHO */
+.cabecalho {width: 100%; float: left; padding: 10px 0%; background-color: #444444;}
+.logo a { width: 100%; height: 200px; float: left; background: url(../img/Mana2.jpg) repeat-x; font-size: 0;}
+
+/* Menu */
+.menu {width: 100%; float: left; background-color: #808080; padding: 12px 8%;}
+.menu li {float: left;}
+.menu li a {color:#ffffff; margin-right: 50px;}
+.menu li a:hover {color: rgb(253, 22, 22);}
+
+/* PRINCIPAL */
+.principal { width: 100%; float: left;}
+.inicio {width: 100%; float: left; margin-left: 40px;}
+.inicio h1 {color:#ffffff; margin-bottom: 20px;}
+.inicio a {color:#ffffff}
+.inicio img {margin-left: 0px;}
+.inicio p {text-align: justify; color:#D73D32; font-weight: bolder; padding: 0 10px 20px 0;}
+
+/* RODAPÉ */
+.rodape {width: 100%; float: left; background-color: #444444; padding: 20px 8%; }
+.rodape p {color: #fff;}
